@@ -167,3 +167,14 @@
     color: #F9FAF8;
     font-weight: lighter
 }
+
+/* FOOTER */
+
+.footer-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
